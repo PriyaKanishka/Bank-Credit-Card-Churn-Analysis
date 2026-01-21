@@ -1,3 +1,5 @@
+# 📊 Bank Credit Card Churn Analysis – Power BI
+
 ## 🔍 Project Overview
 This project analyzes customer churn behavior in a bank’s credit card portfolio using Power BI.  
 The dashboard identifies churn patterns across tenure, spending behavior, transaction activity, and card types to support data-driven retention strategies.
